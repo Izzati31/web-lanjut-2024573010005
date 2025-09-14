@@ -154,12 +154,14 @@ Laravel ini sangat cocok digunakan untuk membangun aplikasi web mulai dari skala
 
     Ringkasnya:
     User -> Route ->Controller -> Model -> Controller -> View -> User
+     
+    Masukkan Foto ke Website (HTML)
 
-    lihat cara nya disini https://www.ulas.in/komputer/markdown-memasukkan-gambar/
+    <img src="../laporan1/gambar/alur-kerja-mvc.jpg" alt="Gambar Alur kerja mvc">
 
 ---
 
-## 6. Kelebihan & Kekurangan (refleksi singkat)
+## 6. Kelebihan & Kekurangan 
     - Kelebihan Laravel menurut saya adalah Laravel ini sangat kuat untuk aplikasi web skala menengah sampai besar karena terstruktur dan juga lengkap,Routing sederhana dan fleksibel,komunitas dan dokumentasi yang luas, dan juga query database lebih mudah dann rapi.
     
     - Hal yang mungkin menjadi tantangan bagi pemula adalah berdasarkan pengalaman saya pertama kali menggunakan Larave adalah banyak folder dan file default sehingga bingung mau mulai dari mana. Harus memahami konsep MVC, kadang membingungkan kenapa harus lewat Controller dulu padahal bisa langsung ke query ke DB. Kalau dibagian Artisan Command, Awalnya sulit diingat semua karena banyak perintah (make:model,make:controller,migrate,dll) .Dan juga menampilkan menampilkan eror yang panjang dan teknis membingungkan.
