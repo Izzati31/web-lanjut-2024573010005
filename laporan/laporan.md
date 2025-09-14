@@ -157,7 +157,7 @@ Laravel ini sangat cocok digunakan untuk membangun aplikasi web mulai dari skala
      
     Masukkan Foto ke Website (HTML)
 
-    <img src="../laporan1/gambar/alur-kerja-mvc.jpg" alt="Gambar Alur kerja mvc">
+<img src="../laporan/laporan1/gambar/alur-kerja-mvc.jpg" alt="Gambar Alur kerja mvc">
 
 ---
 
